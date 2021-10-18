@@ -1,9 +1,6 @@
 ---
 title: "YOUR-TITLE"
 date: 2021-10-18
----
-
----
 layout: post
 title:  "Welcome to Jekyll!"
 ---
